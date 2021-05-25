@@ -6,6 +6,8 @@ public class Demo4 {
 
         System.out.println("break");
 
+        System.out.println("final_last");
+
         System.out.println("final");
     }
 }
