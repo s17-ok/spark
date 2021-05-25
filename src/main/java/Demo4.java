@@ -3,5 +3,7 @@ public class Demo4 {
         System.out.println("this is demo4");
 
         System.out.println("hello world");
+
+        System.out.println("break");
     }
 }
